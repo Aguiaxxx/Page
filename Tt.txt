@@ -1,1 +1,4 @@
 curl -O https://pagekite.net/pk/pagekite.py
+chmod +x pagekite.py
+./pagekite.py 6081 prohgt.pagekite.me
+
